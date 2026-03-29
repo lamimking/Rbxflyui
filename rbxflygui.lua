@@ -180,6 +180,6 @@ local credit = Instance.new("TextLabel")
 credit.Size = UDim2.new(1, -20, 0, 40)
 credit.Position = UDim2.new(0, 10, 1, -45)
 credit.BackgroundColor3 = Color3.fromRGB(255, 45, 70)
-credit.Text = "Credit @LamimkingZ"
+credit.Text = "Credit @Lamimkingz"
 credit.TextColor3 = Color3.new(1,1,1)
 credit.Parent = frame
